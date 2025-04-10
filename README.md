@@ -29,6 +29,18 @@ Users place a finger between an NIR LED and photodiode. The transmitted signal, 
 ### 📡 System Flow Overview
 1. **Signal Capture**: Finger placed between emitter and detector.  
 2. **Amplification**: Signal passed through AD620.  
-3. **Data Processing**: STM32 averages ADC readings and computes glucose level using a pre-trained regression models.  
+3. **Data Processing**: STM32 averages ADC readings and computes glucose level using pre-trained regression models.  
 4. **Cloud Upload**: ESP32 uploads the value to Firebase.  
 5. **App Display**: GlucoRoko Android app fetches and displays the latest glucose level.
+
+---
+
+### 🏆 Achievements
+- **Finalists** at the **ACCS Advanced Design Challenge (ADC-2024)** for presenting GlucoRoko as an innovative, non-invasive healthcare solution using embedded systems and real-time cloud integration.
+
+---
+
+### Other Team Members
+- Shashank P
+- E Sujaya
+- Diksha Shetty
