@@ -43,4 +43,5 @@ Users place a finger between an NIR LED and photodiode. The transmitted signal, 
 ### Other Team Members
 - Shashank Padavalkar
 - [E Sujaya](https://github.com/Sujaya-E)
-- Diksha Shetty
+- [Anirudh Navalgund](https://github.com/Anirudh-Navalgund)
+
